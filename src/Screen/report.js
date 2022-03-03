@@ -2,7 +2,6 @@ import React from "react";
 import { ScrollView, Text, View } from "react-native";
 import { AntDesign } from "@expo/vector-icons";
 import Myturn from "../lib/ImgPicker";
-
 import {
   FormControl,
   Select,

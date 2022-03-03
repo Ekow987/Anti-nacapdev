@@ -4,7 +4,7 @@
       "name": "NACAP",
       "slug": "NACAP",
       "version": "1.0.0",
-      "icon": "./src/assets/images/mogo.png",
+      "icon": "./src/assets/images/momo.png",
       "assetBundlePatterns": ["**/*"],
       "android": {
         "package": "com.armaebii.alberto"
